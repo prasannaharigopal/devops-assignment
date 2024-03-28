@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nagarro</groupId>
-	<artifactId>customer-management-service</artifactId>
+	<artifactId>calculator service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer-management-service</name>
 	<description>Demo project for Spring Boot</description>
