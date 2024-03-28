@@ -11,7 +11,7 @@
 	<groupId>com.nagarro</groupId>
 	<artifactId>calculator service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>customer-management-service</name>
+	<name>calculator-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
